@@ -8,6 +8,8 @@
 
 [→点击进入管理端口](https://cloud.yingyingying.xyz:8888/cloud_settings.asp)
 
+<img src="https://cloud.yingyingying.xyz:500/AICLOUD1793160771/%e7%8c%a5%e7%90%90doge.jpg" width="15%">
+
 ## 访问我们的博客
 
 [→点击进入Blogger博客](https://ghs.yingyingying.xyz)
