@@ -12,6 +12,4 @@
 
 [→点击进入Blogger博客](https://ghs.yingyingying.xyz)
 
-![丁宝暗中观察](https://cloud.yingyingying.xyz:500/AICLOUD1029808536/%e4%b8%81%e5%ae%9d%e6%9a%97%e4%b8%ad%e8%a7%82%e5%af%9f.jpg)
-
-![天皇拔刀](https://cloud.yingyingying.xyz:500/AICLOUD1045274966/%e5%a4%a9%e7%9a%87%e6%8b%94%e5%88%80.jpg)
+<img src="https://cloud.yingyingying.xyz:500/AICLOUD1029808536/%e4%b8%81%e5%ae%9d%e6%9a%97%e4%b8%ad%e8%a7%82%e5%af%9f.jpg" width="50%">
