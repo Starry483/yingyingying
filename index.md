@@ -19,5 +19,3 @@
 → [Blogger博客](https://ghs.yingyingying.xyz)
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
-
-→ [云服务器管理面板](https://rcs.yingyingying.xyz:8888)
