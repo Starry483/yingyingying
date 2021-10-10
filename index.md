@@ -18,8 +18,6 @@
 
 → [Blogger博客](https://ghs.yingyingying.xyz)
 
-## 访问其他项目
+## 其他项目
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
-
-→ [VNC连接云服务器](https://www.rainyun.com/app/rcs/manage/vnc/15279?type=novnc)
