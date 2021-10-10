@@ -13,3 +13,7 @@
 ## 访问我们的博客
 
 → [Blogger博客](https://ghs.yingyingying.xyz)
+
+## 测试项目
+
+→ [云服务器测试](https://test.yingyingying.xyz)
