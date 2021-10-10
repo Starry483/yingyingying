@@ -1,5 +1,5 @@
 # 槲叶落山路，枳花明驿墙。
-
+如果你能看到下面的图片则证明文件服务器正常
 <img src="https://cloud.yingyingying.xyz:8964/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
 
 ## 访问文件服务器
