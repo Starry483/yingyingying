@@ -21,3 +21,5 @@
 ## 其他项目
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
+
+→ [KMS激活工具](https://cloud.yingyingying.xyz:8964/AICLOUD1615769437/KMSpico_setup.exe)
