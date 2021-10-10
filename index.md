@@ -16,4 +16,4 @@
 
 ## 测试项目
 
-→ [云服务器测试](https://test.yingyingying.xyz)
+→ [云服务器测试页](https://test.yingyingying.xyz)
