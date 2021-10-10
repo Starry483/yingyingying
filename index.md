@@ -18,7 +18,7 @@
 
 → [Blogger博客](https://ghs.yingyingying.xyz)
 
-## 其他项目
+## 其它项目
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
 
