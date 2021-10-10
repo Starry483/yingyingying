@@ -14,10 +14,10 @@
 
 → [管理端口](https://cloud.yingyingying.xyz:8443/cloud_settings.asp)
 
-## 访问我们的博客
+## 访问其他项目
 
 → [Blogger博客](https://ghs.yingyingying.xyz)
 
-## 测试项目
-
 → [云服务器测试页](https://rcs.yingyingying.xyz)
+
+→ [云服务器管理面板](https://rcs.yingyingying.xyz:8888)
