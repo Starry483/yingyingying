@@ -10,7 +10,7 @@
 
 如果登录账号被锁定请寻求管理员的帮助。
 
-→ [文件服务器](https://cloud.yingyingying.xyz:8964)
+→ [文件服务器](https://cloud.yingyingying.xyz:2096)
 
 → [管理端口](https://cloud.yingyingying.xyz:8443/cloud_settings.asp)
 
@@ -22,4 +22,4 @@
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
 
-→ [KMS激活工具](https://cloud.yingyingying.xyz:8964/AICLOUD1615769437/KMSpico_setup.exe)
+→ [KMS激活工具](https://cloud.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
