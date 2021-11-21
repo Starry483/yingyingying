@@ -4,7 +4,7 @@
 
 如果你能看到下面的图片则证明文件服务器正常。
 
-<img src="https://cloud.yingyingying.xyz:8964/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
+<img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
 
 ## 访问文件服务器
 
@@ -13,6 +13,8 @@
 → [AiCloud 个人云](https://cloud.yingyingying.xyz:2096) → (New)[海外线路](https://cloud-cdn.yingyingying.xyz:2096)
 
 → [AiCloud 个人云设置](https://cloud.yingyingying.xyz:8443/cloud_settings.asp)
+
+→ [Download Master](https://cloud.yingyingying.xyz:8481/downloadmaster/index.asp)
 
 ## 访问我们的博客
 
