@@ -10,11 +10,11 @@
 
 如果登录账号被锁定请寻求管理员的帮助。
 
-→ [AiCloud 个人云](https://cloud.yingyingying.xyz:2096) → (New)[海外线路](https://cloud-cdn.yingyingying.xyz:2096)
+→ [AiCloud 个人云](https://cloud.yingyingying.xyz:2096)
 
 → [AiCloud 个人云设置](https://cloud.yingyingying.xyz:8443/cloud_settings.asp)
 
-→ [Download Master](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)
+→ [Download Master](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp) → [线路2](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
 ## 访问我们的博客
 
