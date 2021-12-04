@@ -24,4 +24,8 @@
 
 → [云服务器测试页](https://rcs.yingyingying.xyz)
 
+## 实用工具
+
 → [KMS激活工具](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
+
+→ [DevCheck破解版](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD979692360/DevCheck-Pro-v4.04_build_404-Mod.apk) → [蓝奏云下载 密码81kz](https://yxssp.lanzoui.com/b0pyyule?%3E)
