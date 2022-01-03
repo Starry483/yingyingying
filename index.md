@@ -22,10 +22,6 @@
 
 → [Blogger博客](https://ghs.yingyingying.xyz)
 
-## 其它项目
-
-→ [云服务器测试页](https://rcs.yingyingying.xyz)
-
 ## 实用工具
 
 → [KMS激活工具](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
