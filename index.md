@@ -1,18 +1,16 @@
-# ☁️ヽ(･ˇ∀ˇ･ゞ)
-
 <img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="50%">
 
-## ☁️Cloud
+# ☁️Cloud
 
 [AiCloud☁️¹](https://cloud.yingyingying.xyz:2096)
 
 [Download Master☁️¹](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
-### 🛂Blog
+## 🛂Blog
 
-[Blogger](https://ghs.yingyingying.xyz)
+[Blogger🌐](https://ghs.yingyingying.xyz)
 
-#### 🛠️Tools
+### 🛠️Tools
 
 [KMSpico☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
