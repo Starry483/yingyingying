@@ -2,17 +2,15 @@
 
 # ☁️Cloud
 
-[AiCloud☁️¹](https://cloud.yingyingying.xyz:2096)
+[AiCloud☁️👁️¹](https://cloud.yingyingying.xyz:2096)
 
-[Download Master☁️¹](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
+[Download Master☁️⬇️¹](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
 ## 🛂Blog
 
-[Blogger🌐](https://ghs.yingyingying.xyz)
+[Blogger🌐👁️](https://ghs.yingyingying.xyz)
 
 ### 🛠️Tools
-
-[KMSpico☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
 [DevCheck☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD979692360/DevCheck-Pro-v4.04_build_404-Mod.apk)
 
