@@ -1,12 +1,8 @@
-# yingyingying发布页✓
+# ^_________^
 
-!欢迎来到嘤嘤嘤云盘地址发布页¡
-
-¡如果你能看到下面的图片则证明网关正常!
+欢迎来到嘤嘤嘤云盘地址发布页¹
 
 <img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
-
-## Pages
 
 [AiCloud¹](https://cloud.yingyingying.xyz:2096)
 
