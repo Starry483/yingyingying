@@ -8,8 +8,6 @@
 
 [Download Master](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
-## Blog
-
 [Blogger¹](https://ghs.yingyingying.xyz)
 
 ## Tools
