@@ -15,3 +15,5 @@
 [KMSpico☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
 [DevCheck☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD979692360/DevCheck-Pro-v4.04_build_404-Mod.apk)
+
+[Chrome_98.0.4758.101☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD2058924438/com.android.chrome_98.0.4758.101-475810123_minAPI24(arm64-v8a%2carmeabi-v7a))
