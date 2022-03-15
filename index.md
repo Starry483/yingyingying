@@ -1,24 +1,22 @@
-### 联系QQ：2536592300
+# yingyingying发布页✓
 
-# 槲叶落山路，枳花明驿墙。
+!欢迎来到嘤嘤嘤云盘地址发布页¡
 
-欢迎来到嘤嘤嘤云盘地址发布页。
-
-如果你能看到下面的图片则证明云盘正常。
+¡如果你能看到下面的图片则证明云盘正常!
 
 <img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
 
-## 访问云盘
+## ✓
 
 [AiCloud 个人云](https://cloud.yingyingying.xyz:2096)
 
 [Download Master](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
-## 访问我们的博客
+## 访问我们的博客（需要代理）
 
 [Blogger博客](https://ghs.yingyingying.xyz)
 
-## 实用工具
+## 实用工具（云盘）
 
 [KMSpico](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
