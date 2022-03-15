@@ -2,16 +2,16 @@
 
 # ☁️Cloud
 
-[AiCloud☁️👁️¹](https://cloud.yingyingying.xyz:2096)
+[AiCloud☁️¹👁️](https://cloud.yingyingying.xyz:2096)
 
-[Download Master☁️⬇️¹](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
+[Download Master☁️¹⬇️](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)
 
 ## 🛂Blog
 
-[Blogger🌐👁️](https://ghs.yingyingying.xyz)
+[Blogger🌐🗯️](https://ghs.yingyingying.xyz)
 
 ### 🛠️Tools
 
-[DevCheck☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD979692360/DevCheck-Pro-v4.04_build_404-Mod.apk)
+[DevCheck☁️²⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD979692360/DevCheck-Pro-v4.04_build_404-Mod.apk)
 
-[Chrome_98.0.4758.101☁️⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD2058924438/com.android.chrome_98.0.4758.101-475810123_minAPI24(arm64-v8a%2carmeabi-v7a))
+[Chrome_98.0.4758.101☁️²⬇️](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD2058924438/com.android.chrome_98.0.4758.101-475810123_minAPI24(arm64-v8a%2carmeabi-v7a))
