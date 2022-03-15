@@ -2,21 +2,21 @@
 
 !欢迎来到嘤嘤嘤云盘地址发布页¡
 
-¡如果你能看到下面的图片则证明云盘正常!
+¡如果你能看到下面的图片则证明网关正常!
 
 <img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
 
-## ✓
+## Pages
 
-[AiCloud 个人云](https://cloud.yingyingying.xyz:2096)
+[AiCloud¹](https://cloud.yingyingying.xyz:2096)
 
 [Download Master](https://cloud.yingyingying.xyz:2087/downloadmaster/index.asp)[²](https://cloud-cdn.yingyingying.xyz:2087/downloadmaster/index.asp)
 
-## 访问我们的博客（需要代理）
+## Blog
 
-[Blogger博客](https://ghs.yingyingying.xyz)
+[Blogger¹](https://ghs.yingyingying.xyz)
 
-## 实用工具（云盘）
+## Tools
 
 [KMSpico](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
