@@ -1,6 +1,4 @@
-# ^_________^
-
-欢迎来到嘤嘤嘤云盘地址发布页¹
+# ♪ \(^ω^\ )
 
 <img src="https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1664609148/dou_original_0_2_too_young_too_simple.gif" width="35%">
 
@@ -10,7 +8,7 @@
 
 [Blogger¹](https://ghs.yingyingying.xyz)
 
-## Tools
+## ☁️⬇️
 
 [KMSpico](https://cloud-cdn.yingyingying.xyz:2096/AICLOUD1615769437/KMSpico_setup.exe)
 
